@@ -1,0 +1,12 @@
+c:\users\admin\Documents\Visual Studio 2012\Projects\E-Library Management\E-Library Management\bin\E-Library Management.dll
+c:\users\admin\Documents\Visual Studio 2012\Projects\E-Library Management\E-Library Management\bin\E-Library Management.pdb
+c:\users\admin\Documents\Visual Studio 2012\Projects\E-Library Management\E-Library Management\obj\Debug\E-Library Management.dll
+c:\users\admin\Documents\Visual Studio 2012\Projects\E-Library Management\E-Library Management\obj\Debug\E-Library Management.pdb
+c:\users\admin\Documents\Visual Studio 2012\Projects\E-Library Management\E-Library Management\obj\Debug\E-Library Management.csprojResolveAssemblyReference.cache
+D:\E-Library Management\E-Library Management\bin\E-Library Management.dll.config
+D:\E-Library Management\E-Library Management\bin\E-Library Management.dll
+D:\E-Library Management\E-Library Management\bin\E-Library Management.pdb
+D:\E-Library Management\E-Library Management\obj\Debug\E-Library Management.csprojAssemblyReference.cache
+D:\E-Library Management\E-Library Management\obj\Debug\E-Library Management.csproj.CoreCompileInputs.cache
+D:\E-Library Management\E-Library Management\obj\Debug\E-Library Management.dll
+D:\E-Library Management\E-Library Management\obj\Debug\E-Library Management.pdb
